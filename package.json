@@ -1,0 +1,11 @@
+{
+  "name": "aadhyas-lifeline",
+  "version": "1.0.0",
+  "description": "Aadhya's Life Line Hospital Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File server.ps1"
+  },
+  "author": "",
+  "license": "ISC"
+}
